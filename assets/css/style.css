@@ -64,3 +64,21 @@ body {
     border-top: 1px solid #e5e7eb;
     color: #64748b;
 }
+
+.recursos {
+    padding: 32px;
+    background-color: #ffffff;
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+}
+
+.recursos h2 {
+    margin-top: 0;
+}
+
+.saiba-mais {
+    padding: 32px;
+    background-color: #ffffff;
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+}
